@@ -1,0 +1,7 @@
+{
+  "domain": "spokestack",
+  "name": "Spokestack Text-to-Speech",
+  "documentation": "https://www.home-assistant.io/integrations/spokestack",
+  "requirements": [],
+  "codeowners": ["@space-pope"]
+}
